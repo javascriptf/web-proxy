@@ -1,6 +1,8 @@
 web_Proxy
 =========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nodef/proxy.svg)](https://greenkeeper.io/)
+
 Free Node.js proxy server
 
 
